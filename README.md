@@ -7,6 +7,9 @@
 
 # 使用方法
 
+0. 需要准备LLM API
+( 推荐前往Deepseek开放平台 https://platform.deepseek.com/ )
+
 [控制台]auto-matrix.js
 1. 复制代码内容
 2. 浏览器打开Matrix平台进入第一个题目中, 按f12打开开发者模式, 选择控制台.
